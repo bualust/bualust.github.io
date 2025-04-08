@@ -1,16 +1,18 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I am an experienced researcher with a passion for discovering statistical insights within large data.
+Currently, I am member and a convener for the ATLAS collaboration at CERN, an international scientific experiment that received the [2025 Breakthrough Prize](https://breakthroughprize.org/News/91) and contributed to the discovery of the [Higgs boson](https://atlas.cern/Discover/Physics/Higgs), which led to the [2013 Nobel Prize](https://www.nobelprize.org/prizes/physics/2013/summary/). 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+During my 10 years in research I have developed a wide range of data-science skills:
+- data manipulation and visualisation,
+- statistical modelling,
+- usage of machine-learning techniques for classification and regression problems,
+- scientific writing and communication to both expert and non-expert audiences.
 
-What else do you need?
+I have covered several leadership roles and mentored numerous Ph.D students. 
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+[<i class="fa-solid fa-download"></i> Download CV](assets/data/VV_CV.pdf)

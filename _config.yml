@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: My website
+title: Valentina Vecchio
 
 # Your name to show in the footer
-author: Some Person
+author: Valentina Vecchio
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -21,10 +21,12 @@ author: Some Person
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Leadership: "leader"
+  Talks and Workshops: "talks"
+  Fun projects:
+    - Film pictures: "pictures"
+    - Random FPL: "https://bualust.github.io/RandomFPL/"
+    - Lard will tear us apart: "https://www.lardwilltearusapart.co.uk/"
 
 ################
 # --- Logo --- #
@@ -32,14 +34,14 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "/assets/img/me.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-#title-img: /path/to/image
+#title-img: "/assets/img/me.png"
 
 
 #####################################
@@ -50,17 +52,17 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: "@daattali"
-  whatsapp: 15551212
+  email: "valentina.vecchio@protonmail.com"
+  rss: false  # remove this line if you don't want to show an RSS link at the bottom
+#  facebook: deanattali
+  github: bualust
+#  twitter: daattali
+#  patreon: DeanAttali
+#  youtube: "@daattali"
+#  whatsapp: 15551212
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
-#  linkedin: daattali
+  linkedin: vv-data
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -74,19 +76,19 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  bluesky: yourname
-#  ORCID: your ORCID ID
+  ORCID: 0000-0002-1351-6757
 #  google-scholar: your google scholar
 #  discord: "invite_code" or "users/userid" or "invite/invite_code"
 #  kaggle: yourname
 #  hackerrank: yourname
-#  gitlab: yourname
+  gitlab: gitlab.cern.ch/vvecchio
 #  itchio: yourname
 #  untappd: yourname
 #  strava: youruserid
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: Personal website of Valentina Vecchio
 
 ###########################
 # --- General options --- #
@@ -98,11 +100,11 @@ share-links-active:
   facebook: true
   linkedin: true
   vk: false
-  reddit: false
+  reddit: ture
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+#url-pretty: "MyWebsite.com"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
@@ -120,7 +122,7 @@ feed_show_tags: true
 post_search: true
 
 # Add a button in the footer to edit the current page. Only works if your website is hosted on GitHub
-edit_page_button: true
+edit_page_button: false
 
 # Allow sub-menu items (second-level navigation menu items) to be longer than the top-level menu
 # If this setting is off, then long sub-menu words might get cut off
@@ -135,18 +137,22 @@ navbar-var-length: false
 ######################################
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
+#catpucino values from https://catppuccin.com/palette/
 
-page-col: "#FFFFFF"
-text-col: "#404040"
-link-col: "#008AFF"
-hover-col: "#0085A1"
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
+# Base colors
+page-col: "#eff1f5" # Latte Base
+text-col: "#4c4f69" # Latte Text
 navbar-border-col: "#DDDDDD"
-footer-col: "#EAEAEA"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
-footer-hover-col: "#0085A1"
+
+# Accent colors
+navbar-col: "#dc8a78"   # Latte Rosewater
+footer-col: "#dc8a78"   # Latte Rosewater
+navbar-text-col: "#eff1f5" # Latte Base
+footer-text-col: "#eff1f5" # Latte Base
+link-col: "#dc8a78"        # Latte Rosewater
+footer-link-col: "#e64553" # Latte Maroon
+hover-col: "#e64553"        # Latte Maroon
+footer-hover-col: "#e64553" # Latte Maroon
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
@@ -159,8 +165,8 @@ footer-hover-col: "#0085A1"
 #mobile-theme-col: "#0085A1"
 
 # For any extra visual customization, you can include additional CSS files in every page on your site. List any custom CSS files here
-#site-css:
-#  - "/assets/css/custom-styles.css"
+site-css:
+  - "/assets/css/custom-styles.css"
 
 # If you have common JavaScript files that should be included in every page, list them here
 #site-js:
@@ -171,7 +177,7 @@ footer-hover-col: "#0085A1"
 #################################
 
 # Fill in your Google Analytics tag ID (or "Measurement ID") to track your website usage
-#gtag: "G-XXXXXXXXXX"
+gtag: "G-X2Y27K3YS4"
 
 # Fill in your Cloudflare Analytics beacon token to track your website using Cloudflare Analytics
 #cloudflare_analytics: ""
@@ -260,7 +266,7 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "Europe/Belfast"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
@@ -295,6 +301,7 @@ exclude:
   - README.md
   - screenshot.png
   - docs/
+  - _posts/markdown_example.md
 
 plugins:
   - jekyll-paginate
