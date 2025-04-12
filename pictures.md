@@ -4,6 +4,12 @@ title: Travel and Portraits
 subtitle: Pictures on 35mm film with Ricoh KR-10 and Pentax MX
 ---
 
+## Manchester - April 2025
+Shot on Pentax MX - Ilford XP2 400
+
+![alt-text-1](./assets/pics/pentax_first/000012.png) ![alt-text-2](./assets/pics/pentax_first/000017.png)
+![alt-text-1](./assets/pics/pentax_first/000023.png) ![alt-text-2](./assets/pics/pentax_first/000039.png)
+
 ## Valencia - March 2024
 
 ![alt-text-1](./assets/pics/valencia/000009.png) ![alt-text-2](./assets/pics/valencia/000011.png)
