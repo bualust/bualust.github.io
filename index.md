@@ -25,7 +25,7 @@ Here is one of the plots I’m most proud of — it highlights the historical im
 ![niceplot](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/FTAG-2023-05/fig_04b.png)
 
 ### <i class="fa-solid fa-book"></i> Ph.D
-My Ph.D. thesis introduced a novel method to extract the top-quark coupling to the bottom-quark. It also included the [measurement of heavy-flavour tagging performance using multi-jet events](https://cds.cern.ch/record/2809692), and the construction of Micromegas detectors for the upgrade of the ATLAS Small Wheel [1](https://www.sciencedirect.com/science/article/abs/pii/S0168900219304966?via%3Dihub) [2](https://www.sciencedirect.com/science/article/abs/pii/S0168900222006118?via%3Dihub).
+My [Ph.D. thesis](https://arcadia.sba.uniroma3.it/handle/2307/40890) introduced a novel method to extract the top-quark coupling to the bottom-quark. It also included the [measurement of heavy-flavour tagging performance using multi-jet events](https://cds.cern.ch/record/2809692), and the construction of Micromegas detectors for the upgrade of the ATLAS Small Wheel [1](https://www.sciencedirect.com/science/article/abs/pii/S0168900219304966?via%3Dihub) [2](https://www.sciencedirect.com/science/article/abs/pii/S0168900222006118?via%3Dihub).
 
 During my Ph.D I was awarded a prestigous fellowship by INFN (Istituto Nazionale Fisica Nucleare) that allowed me to spend one year at CERN.
 
