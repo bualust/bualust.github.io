@@ -15,4 +15,4 @@ During my 10 years in research I have developed a wide range of data-science ski
 
 I have covered several leadership roles and mentored numerous Ph.D students. 
 
-[<i class="fa-solid fa-download"></i> Download CV](assets/data/VV_CV.pdf)
+[<i class="fa-solid fa-download"></i> Download CV](https://flowcv.com/resume/gb5g2vjtvcpf)
