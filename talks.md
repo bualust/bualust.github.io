@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Conference and Workshop
-subtitle: A list of talks I have given and workshops I organised
+subtitle: 
 ---
 
 ## <i class="fa-solid fa-bullhorn"></i> Public talks at conferences and workshops
@@ -17,7 +17,7 @@ Past talks and seminars:
 - [Top2020 Conference](https://conference.ippp.dur.ac.uk/event/891/timetable/?view=standard#8-bottlenecks-in-precision-top) "Bottlenecks in precision top-quark measurements"
 
 ## <i class="fa-solid fa-handshake"></i> Workshops organised
-- [Member of the "2026 CMS-ATLAS Flavour Tagging Workshop" International organising committee](https://indico.cern.ch/event/1593316/)
-- [Organiser of the "ATLAS Hadronic Identification Workshop 2025" (restricted)](https://indico.cern.ch/event/1552037/)
-- [Chair of session in the "ATLAS+CMS FTAG workshop"](https://indico.cern.ch/event/1387465/timetable/?view=standard#b-552868-plenary-calibrations)
-- [Organiser of the ATLAS TOP UK 2023 workshop (restricted)](https://indico.cern.ch/event/1291051/)
+- Member of the International organising committee for the [2026 CMS-ATLAS Flavour Tagging Workshop](https://indico.cern.ch/event/1593316/)
+- Organiser of the [ATLAS Hadronic Identification Workshop 2025 (restricted)](https://indico.cern.ch/event/1552037/)
+- Session chair in the [ATLAS+CMS FTAG workshop](https://indico.cern.ch/event/1387465/timetable/?view=standard#b-552868-plenary-calibrations)
+- Organiser of the [ATLAS TOP UK 2023 workshop (restricted)](https://indico.cern.ch/event/1291051/)
