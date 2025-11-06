@@ -7,9 +7,9 @@ subtitle:
 ## <i class="fa-solid fa-bullhorn"></i> Public talks at conferences and workshops
 Coming soon:
 - [Seminar at University of Genova](NA) "Higgs at its Top: the odd couple at 13 TeV"
-- [LHC Top WG meeting](https://indico.cern.ch/event/1588411/) "Search for the production of a Higgs boson in association with a single top quark in collisions at √s = 13 TeV with the ATLAS detector"
 
 Past talks and seminars:
+- [LHC Top WG V2 2025 meeting](https://indico.cern.ch/event/1588411/timetable/?view=standard#18-search-for-the-production-o) "Search for the production of a Higgs boson in association with a single top quark in collisions at √s = 13 TeV with the ATLAS detector"
 - [LHCP23 Conference](https://indico.cern.ch/event/1198609/timetable/?view=standard#293-higgs-boson-production-in) "Higgs boson production in association with top quark at ATLAS"
 - [CMS Flavour Tagging workshop](https://indico.cern.ch/event/1274182/contributions/5458311/) "Heavy flavor jet tagging calibrations in ATLAS"
 - [Invited talk at Nikhef](https://indico.cern.ch/event/1193206/timetable/?view=standard#23-introduction-to-boosted-xbb) "Introduction to boosted Xbb in ATLAS"
