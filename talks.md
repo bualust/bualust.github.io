@@ -6,6 +6,7 @@ subtitle:
 
 ## <i class="fa-solid fa-bullhorn"></i> Public talks at conferences and workshops
 Coming soon:
+- [The 22nd Workshop of the LHC Higgs Working Group](https://indico.cern.ch/event/1597152/timetable/#154-higgs-top-coupling-measure) "Higgs-top coupling measurements from ATLAS and CMS"
 - [Seminar at University of Genova](NA) "Higgs at its Top: the odd couple at 13 TeV"
 
 Past talks and seminars:
