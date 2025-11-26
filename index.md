@@ -12,7 +12,8 @@ I joined the University of Manchester in November 2019 as a Research Associate.
 My work focuses on precision measurements of the Higgs boson properties, using the ATLAS detector at CERN.
 
 I designed and led the very first ATLAS measurement of the associated production of the Higgs boson with a single top quark.
-This measurement has been recently published on [arXiv:2508.14695](https://arxiv.org/abs/2508.14695) and shows an interesting deviation of the measured cross section when compared to the theory prediction.
+This measurement has been recently published on [JHEP 10 (2025) 093]( 	
+https://doi.org/10.1007/JHEP10%282025%29093) and shows an interesting deviation of the measured cross section when compared to the theory prediction.
 ![limitplot](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/HIGP-2024-03/fig_03a.png)
 The observed significance of the signal above the background-only expectation is 2.8, a value that is higher than the expected 0.4 and demands further investigation through more accurate measurements.
 
