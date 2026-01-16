@@ -19,7 +19,7 @@ The observed significance of the signal above the background-only expectation is
 
 A significant part of my research is dedicated to the identification of heavy-flavoured jets and the evaluation of their performance in collision data.  
 I am currently the convener of a fantastic team that developed a transformer-based algorithm, which has significantly improved heavy-flavour identification performance within the ATLAS detector.
-The work had been submitted to Nature Communications and currently available on [arXiv:2505.19689](https://arxiv.org/abs/2505.19689). The architecture's unique feature stands in the physics-informed auxiliary tasks that helps not only improve the primary target of the model, which is to predict the flavour of a reconstructed jet, but also the interpretability of its results.
+The work has been published in Nature Communications [Nat Commun 17, 541 (2026)](https://www.nature.com/articles/s41467-025-65059-6). The architecture's unique feature stands in the physics-informed auxiliary tasks that helps not only improve the primary target of the model, which is to predict the flavour of a reconstructed jet, but also the interpretability of its results.
 ![gn2scketch](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/FTAG-2023-05/fig_01.png)
 
 Here is one of the plots I’m most proud of — it highlights the historical improvement in performance and how well it holds up with actual collision data:  
